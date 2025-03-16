@@ -66,6 +66,9 @@ On this profile, you can check most of my 42 School projects. ⬇️
   <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
   </a>
+  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  </a>
 </p>
 <h3 align="left">Other technologies where I have notions</h3>
 <p align="left">
