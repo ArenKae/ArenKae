@@ -39,12 +39,12 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 ### Currently learning:
 
-[![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)](https://www.python.org)
-[![JavaScript](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)](https://www.w3.org/html/)
-[![Django](https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg)](https://www.djangoproject.com/)
-[![PostgreSQL](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg)](https://www.postgresql.org/)
-[![Django REST](https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg)](https://www.django-rest-framework.org/)
+### Currently learning:
+
+| Python | JavaScript | HTML | Django | PostgreSQL | DRF |
+|--------|-----------|------|--------|------------|-----|
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="40"/> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" width="40"/> |
+
 
 
 <h3 align="left">Known languages</h3>
