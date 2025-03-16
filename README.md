@@ -9,11 +9,11 @@
   </tr>
   <tr>
     <td style="width: 40px; text-align: center;">🔬</td>
-    <td>I love science! After studying biology at university, I decided to embark on a new journey to become a software developer.</td>
+    <td>I love science ! After studying biology at university, I decided to embark on a new journey to become a software developer.</td>
   </tr>
   <tr>
     <td style="width: 40px; text-align: center;">🎮</td>
-    <td>I'm passionate about video games and nerdy stuff in general.</td>
+    <td>I'm passionate about video games, Star Wars, and all kinds of nerdy stuffs !</td>
   </tr>
 </table>
 
