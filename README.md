@@ -10,6 +10,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 # 42 School Projects
 <div align="center">
+
 <a href="https://github.com/ArenKae/libft">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/libfte.png)</a>
 <a href="https://github.com/ArenKae/get_next_line">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/get_next_linee.png)</a>
 <a href="ttps://github.com/ArenKae/ft_printf">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_printfe.png)</a>
@@ -37,7 +38,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 </div>
 <h3 align="left">Currently learning:</h3>
-[![Known languages](https://skillicons.dev/icons?i=c&theme=dark)](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
+[![Known languages](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev)
  <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
