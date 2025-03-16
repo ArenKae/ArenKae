@@ -1,6 +1,6 @@
 # 🌌 Welcome, traveller.
 
-## My name is Anthony Cosi.
+### My name is Anthony Cosi.
 
 🇫🇷 I'm a french student at [42 Nice](https://42nice.fr/en/homepage/) CS school.
 🔬 I love science ! After studying biology at university, I decided to embark on a new journey to become a software developper.
@@ -8,7 +8,7 @@
 
 On this profile, you can check most of my 42 School projects.
 
-### 42 School Projects
+# 42 School Projects
 <div align="center">
 
 <a href="https://github.com/ArenKae/libft">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/libfte.png)</a>
@@ -30,8 +30,11 @@ On this profile, you can check most of my 42 School projects.
 ### GitHub Stats
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArenKae&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![mcombeau's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArenKae&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<a href="https://github.com/ArenKae/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArenKae&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="ArenKae" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArenKae&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
+</a>
 
 </div>
 <h3 align="left">Currently learning:</h3>
@@ -49,7 +52,7 @@ On this profile, you can check most of my 42 School projects.
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-    <img src="hhttps://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" alt="djangorest" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" alt="djangorest" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -66,18 +69,19 @@ On this profile, you can check most of my 42 School projects.
 </p>
 <h3 align="left">Other technologies where I have notions</h3>
 <p align="left">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+
 </p>
 <h3 align="left">Known tools</h3>
 <p align="left">
