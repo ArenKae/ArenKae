@@ -43,7 +43,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/></a>
 <a href="https://www.w3.org/html/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="40"/></a>
-<a href="https://www.postgresql.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="40"/></a>
+<a href="https://www.postgresql.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="40"/></a>
 
 ### Known languages
 
