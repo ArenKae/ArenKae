@@ -2,10 +2,9 @@
 
 ### My name is Anthony Cosi.
 
-`🇫🇷`  I'm a french student at [42 Nice](https://42nice.fr/en/homepage/) CS school.\
-`🔬`  I love science! After studying biology at university, I decided to embark on a new journey to become a software developer.\
-`🎮`  I'm passionate about video games and nerdy stuff in general.
-
+🇫🇷&#8203;  I'm a french student at [42 Nice](https://42nice.fr/en/homepage/) CS school.\
+🔬&#8203;  I love science! After studying biology at university, I decided to embark on a new journey to become a software developer.\
+🎮&#8203;  I'm passionate about video games and nerdy stuff in general.
 
 On this profile, you can check most of my 42 School projects. ⬇️
 
