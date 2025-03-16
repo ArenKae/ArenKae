@@ -33,7 +33,6 @@ On this profile, you can check most of my 42 School projects.
 <br>
 <a href="https://github.com/ArenKae/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArenKae&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="ArenKae" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ArenKae&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
 </a>
 
 </div>
@@ -52,7 +51,7 @@ On this profile, you can check most of my 42 School projects.
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" alt="djangorest" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" alt="djangorest" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
