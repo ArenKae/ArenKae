@@ -38,7 +38,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 </div>
 <h3 align="left">Currently learning:</h3>
-<p align="left">
+<p align="left" style="line-height: 0;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" 
          alt="python" width="40" height="40" style="display: block;"/>
