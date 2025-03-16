@@ -2,10 +2,23 @@
 
 ### My name is Anthony Cosi.
 
-<span style="display:inline-block; width: 40px; text-align:right;">🇫🇷</span>&nbsp;I'm a french student at [42 Nice](https://42nice.fr/en/homepage/) CS school.<br>
-<span style="display:inline-block; width: 40px; text-align:right;">🔬</span>&nbsp;I love science! After studying biology at university, I decided to embark on a new journey to become a software developer.<br>
-<span style="display:inline-block; width: 40px; text-align:right;">🎮</span>&nbsp;I'm passionate about video games and nerdy stuff in general.<br>
-  On this profile, you can check most of my 42 School projects. ⬇️
+<table>
+  <tr>
+    <td style="width: 40px; text-align: center;">🇫🇷</td>
+    <td>I'm a french student at <a href="https://42nice.fr/en/homepage/">42 Nice</a> CS school.</td>
+  </tr>
+  <tr>
+    <td style="width: 40px; text-align: center;">🔬</td>
+    <td>I love science! After studying biology at university, I decided to embark on a new journey to become a software developer.</td>
+  </tr>
+  <tr>
+    <td style="width: 40px; text-align: center;">🎮</td>
+    <td>I'm passionate about video games and nerdy stuff in general.</td>
+  </tr>
+</table>
+
+
+On this profile, you can check most of my 42 School projects. ⬇️
 
 
 
