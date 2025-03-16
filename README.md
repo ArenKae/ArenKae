@@ -33,14 +33,18 @@ On this profile, you can check most of my 42 School projects. ⬇️
 <a href="https://github.com/ArenKae/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArenKae&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="ArenKae" height="200"/>
 </a>
+</div>
 
 # Technical skills
 
 ### Currently learning:
 
-| Python | JavaScript | HTML | Django | PostgreSQL | DRF |
-|--------|-----------|------|--------|------------|-----|
-| ![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg) | ![JavaScript](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg) | ![HTML](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg) | ![Django](https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg) | ![PostgreSQL](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg) | ![DRF](https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg) |
+[![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)](https://www.python.org)
+[![JavaScript](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)](https://www.w3.org/html/)
+[![Django](https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg)](https://www.djangoproject.com/)
+[![PostgreSQL](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg)](https://www.postgresql.org/)
+[![Django REST](https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg)](https://www.django-rest-framework.org/)
 
 
 <h3 align="left">Known languages</h3>
