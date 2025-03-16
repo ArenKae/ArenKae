@@ -36,9 +36,11 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 # Technical skills
 
+[![Known languages](https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=dark)](https://skillicons.dev)
+
 </div>
 <h3 align="left">Currently learning:</h3>
-[![Known languages](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev)
+
  <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
