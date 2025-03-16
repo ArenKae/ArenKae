@@ -1,13 +1,13 @@
 # 🌌 Welcome, traveller.
 
 ### My name is Anthony Cosi.
-
+<pre>
 🇫🇷  I'm a french student at [42 Nice](https://42nice.fr/en/homepage/) CS school.\
 🔬  I love science ! After studying biology at university, I decided to embark on a new journey to become a software developper.\
 🎮  I'm passionate about video-games and nerdy stuffs in general.
 
 On this profile, you can check most of my 42 School projects. ⬇️
-
+</pre>
 # 42 School Projects
 <div align="center">
 
