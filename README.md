@@ -41,27 +41,27 @@ On this profile, you can check most of my 42 School projects. ⬇️
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" 
-         alt="python" width="40" height="40" style="vertical-align: baseline;"/>
+         alt="python" width="40" height="40" style="display: block;"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" 
-         alt="javascript" width="40" height="40" style="vertical-align: baseline;"/>
+         alt="javascript" width="40" height="40" style="display: block;"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" 
-         alt="html5" width="40" height="40" style="vertical-align: baseline;"/>
+         alt="html5" width="40" height="40" style="display: block;"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" 
-         alt="django" width="40" height="40" style="vertical-align: baseline;"/>
+         alt="django" width="40" height="40" style="display: block;"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" 
-         alt="postgresql" width="40" height="40" style="vertical-align: baseline;"/>
+         alt="postgresql" width="40" height="40" style="display: block;"/>
   </a>
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" 
-         alt="djangorest" width="40" height="40" style="vertical-align: baseline;"/>
+         alt="djangorest" width="40" height="40" style="display: block;"/>
   </a>
 </p>
 
