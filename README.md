@@ -36,7 +36,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 # Technical skills
 
-[![Known languages](https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=dark)](https://skillicons.dev)
+[![Known languages](https://skillicons.dev/icons?i=c,&theme=dark)](https://skillicons.dev)
 
 </div>
 <h3 align="left">Currently learning:</h3>
