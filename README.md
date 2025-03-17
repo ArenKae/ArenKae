@@ -30,7 +30,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 <a href="https://github.com/ArenKae/push_swap">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/push_swape.png)</a>
 <a href="https://github.com/ArenKae/Philosophers">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/philosopherse.png)</a>
 <a href="https://github.com/ArenKae/minishell">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/minishelle.png)</a>
-<a href="https://github.com/ArenKae/cub3d">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/cub3de.png)</a>
+<a href="https://github.com/ArenKae/cub3D">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/cub3de.png)</a>
 <a href="https://github.com/ArenKae/cpp">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a>
 <a href="https://github.com/ArenKae/ft_irc">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_irce.png)</a>
 <a href="https://github.com/ArenKae/Inception">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/inceptione.png)</a>
