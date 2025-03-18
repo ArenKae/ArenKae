@@ -24,7 +24,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 <a href="https://github.com/ArenKae/libft">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/libfte.png)</a>
 <a href="https://github.com/ArenKae/get_next_line">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/get_next_linee.png)</a>
-<a href="ttps://github.com/ArenKae/ft_printf">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_printfe.png)</a>
+<a href="https://github.com/ArenKae/ft_printf">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_printfe.png)</a>
 <a href="https://github.com/ArenKae/so_long">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/so_longe.png)</a>
 <a href="https://github.com/ArenKae/pipex">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/pipexe.png)</a>
 <a href="https://github.com/ArenKae/push_swap">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/push_swape.png)</a>
