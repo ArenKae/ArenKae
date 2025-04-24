@@ -46,6 +46,10 @@ On this profile, you can check most of my 42 School projects. ⬇️
 </a>
 </div>
 
+[Root-Me Profil Page Link](https://www.root-me.org/ArenKae?inc=info&lang=fr)
+
+![Demo GIF](./rootme.png)
+
 # Technical skills
 
 ### Currently learning:
