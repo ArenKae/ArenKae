@@ -53,10 +53,6 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 # Technical skills
 
-### Currently learning:
-
-<a href="https://www.postgresql.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="40"/></a>
-
 ### Known languages
 
 <a href="https://en.cppreference.com/w/c"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40"/></a>
