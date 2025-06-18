@@ -55,9 +55,6 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 ### Currently learning:
 
-<a href="https://www.python.org"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="40"/></a>
 <a href="https://www.postgresql.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="40"/></a>
 
 ### Known languages
@@ -65,9 +62,12 @@ On this profile, you can check most of my 42 School projects. ⬇️
 <a href="https://en.cppreference.com/w/c"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40"/></a>
 <a href="https://en.cppreference.com/w/cpp"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40"/></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40"/></a>
+<a href="https://www.python.org"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/></a>
 
-### Other technologies where I have notions
+### Other technologies I use
 
+<a href="https://www.djangoproject.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="40"/></a>
 <a href="https://www.w3.org/html/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40"/></a>
 <a href="https://getbootstrap.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40"/></a>
