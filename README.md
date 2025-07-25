@@ -34,7 +34,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 <a href="https://github.com/ArenKae/cpp">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a>
 <a href="https://github.com/ArenKae/ft_irc">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_irce.png)</a>
 <a href="https://github.com/ArenKae/Inception">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/inceptione.png)</a>
-<a href="https://github.com/ArenKae/ft_transcendence_tmp">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_transcendencee.png)</a>
+<a href="https://github.com/ArenKae/ft_transcendence">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_transcendencee.png)</a>
 </div>
 
 # GitHub Stats
