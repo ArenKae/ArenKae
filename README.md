@@ -60,6 +60,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40"/></a>
 <a href="https://www.python.org"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/></a>
+<a href="https://www.php.net"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="40"/></a>
 
 ### Other technologies I'm familair with
 
@@ -67,7 +68,6 @@ On this profile, you can check most of my 42 School projects. ⬇️
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40"/></a>
 <a href="https://getbootstrap.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40"/></a>
-<a href="https://www.php.net"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="40"/></a>
 <a href="https://www.mysql.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="40"/></a>
 
 ### Known tools
