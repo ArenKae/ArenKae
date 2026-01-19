@@ -45,7 +45,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArenKae&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200" alt="Top Langs"/>
       </td>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ArenKae&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Arenkae&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
       </td>
     </tr>
   </table>
