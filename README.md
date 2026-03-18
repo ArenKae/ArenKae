@@ -20,6 +20,7 @@
 On this profile, you can check most of my 42 School projects. ⬇️
 
 # 42 School Projects
+## Common core
 <div align="center">
 
 <a href="https://github.com/ArenKae/libft">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/libfte.png)</a>
@@ -35,6 +36,12 @@ On this profile, you can check most of my 42 School projects. ⬇️
 <a href="https://github.com/ArenKae/ft_irc">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_irce.png)</a>
 <a href="https://github.com/ArenKae/Inception">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/inceptione.png)</a>
 <a href="https://github.com/ArenKae/ft_transcendence">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_transcendencee.png)</a>
+</div>
+
+## Advanced projects
+<div align="center">
+
+<a href="https://github.com/ArenKae/dr_quine">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/dr_quine.png)</a>
 </div>
 
 # GitHub Stats
