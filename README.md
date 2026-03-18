@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td style="width: 40px; text-align: center;">🎮</td>
-    <td>I'm passionate about video games, Star Wars, and all kinds of nerdy stuffs !</td>
+    <td>I'm passionate about video games, roleplaying, science-fiction and all kinds of nerdy stuffs !</td>
   </tr>
 </table>
 
