@@ -71,7 +71,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 ### Known tools
 
-<a href="https://www.docker.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40"/></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="40"/></a>
 <a href="https://www.linux.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="40"/></a>
 <a href="https://git-scm.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40"/></a>
