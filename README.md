@@ -54,26 +54,26 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 ### Known languages
 
-<a href="https://en.cppreference.com/w/c"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40"/></a>
-<a href="https://en.cppreference.com/w/cpp"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40"/></a>
-<a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40"/></a>
-<a href="https://www.python.org"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/></a>
-<a href="https://www.php.net"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="40"/></a>
+<a href="https://en.cppreference.com/w/c" title="C"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40"/></a>
+<a href="https://en.cppreference.com/w/cpp" title="C++"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40"/></a>
+<a href="https://www.gnu.org/software/bash/manual/bash.html" title="Bash"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40"/></a>
+<a href="https://www.python.org" title="Python"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/></a>
+<a href="https://www.php.net" title="PHP"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="40"/></a>
 
 ### Other technologies I'm familair with
 
-<a href="https://www.djangoproject.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="40"/></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40"/></a>
-<a href="https://getbootstrap.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="40"/></a>
+<a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="40"/></a>
+<a href="https://html.spec.whatwg.org/multipage/" title="HTML"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" title="CSS"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40"/></a>
+<a href="https://getbootstrap.com" title="Bootstrap"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40"/></a>
+<a href="https://www.mysql.com/" title="Mysql"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="40"/></a>
 
 ### Known tools
 
 <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="40"/></a>
-<a href="https://www.linux.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="40"/></a>
-<a href="https://git-scm.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40"/></a>
-<a href="https://www.vim.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="40"/></a>
-<a href="https://www.photoshop.com/en"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="40"/></a>
+<a href="https://www.linux.org/" title="Linux"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="40"/></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40"/></a>
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40"/></a>
+<a href="https://www.vim.org/" title="Vim"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="40"/></a>
+<a href="https://www.photoshop.com/en" title="Photoshop"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="40"/></a>
