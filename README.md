@@ -41,7 +41,13 @@ On this profile, you can check most of my 42 School projects. ⬇️
 ## Advanced projects
 <div align="center">
 
-<a href="https://github.com/ArenKae/dr_quine">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/dr_quine.png)</a>
+<a href="https://github.com/ArenKae//rush02">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/Rush02.png)</a>
+</div>
+
+## Piscine
+<div align="center">
+
+<a href="https://github.com/ArenKae/libft">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/libfte.png)</a>
 </div>
 
 # GitHub Stats
