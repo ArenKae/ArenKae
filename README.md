@@ -38,6 +38,23 @@ On this profile, you can check most of my 42 School projects. ⬇️
 <a href="https://github.com/ArenKae/ft_transcendence">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_transcendencee.png)</a>
 </div>
 
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <h2>Advanced projects</h2>
+      <a href="https://github.com/ArenKae/dr_quine">
+        <img src="https://github.com/ArenKae/ArenKae/blob/main/42%20badges/dr_quine.png" alt="dr_quine badge"/>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <h2>Piscine</h2>
+      <a href="https://github.com/ArenKae/rush02">
+        <img src="https://github.com/ArenKae/ArenKae/blob/main/42%20badges/Rush02.png" alt="Rush02 badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Advanced projects
 <div align="center">
 
