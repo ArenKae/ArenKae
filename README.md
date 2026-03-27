@@ -38,22 +38,40 @@ On this profile, you can check most of my 42 School projects. ⬇️
 <a href="https://github.com/ArenKae/ft_transcendence">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_transcendencee.png)</a>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <strong>Advanced projects</strong><br><br>
-      <a href="https://github.com/ArenKae/dr_quine">
-        <img src="https://github.com/ArenKae/ArenKae/blob/main/42%20badges/dr_quine.png" alt="dr_quine badge"/>
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <strong>Piscine</strong><br><br>
-      <a href="https://github.com/ArenKae/rush02">
-        <img src="https://github.com/ArenKae/ArenKae/blob/main/42%20badges/Rush02.png" alt="Rush02 badge"/>
-      </a>
-    </td>
-  </tr>
-</table>
+# 42 School Projects
+
+## Common core
+<div align="center">
+
+<a href="https://github.com/ArenKae/libft">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/libfte.png)</a>
+<a href="https://github.com/ArenKae/ft_printf">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_printfe.png)</a>
+<a href="https://github.com/ArenKae/get_next_line">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/get_next_linee.png)</a>
+<a href="https://github.com/ArenKae/push_swap">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/push_swape.png)</a>
+<a href="https://github.com/ArenKae/pipex">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/pipexe.png)</a>
+<a href="https://github.com/ArenKae/so_long">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/so_longe.png)</a>
+<a href="https://github.com/ArenKae/minishell">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/minishelle.png)</a>
+<a href="https://github.com/ArenKae/Philosophers">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/philosopherse.png)</a>
+<a href="https://github.com/ArenKae/cub3D">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/cub3de.png)</a>
+<a href="https://github.com/ArenKae/cpp">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a>
+<a href="https://github.com/ArenKae/ft_irc">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_irce.png)</a>
+<a href="https://github.com/ArenKae/Inception">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/inceptione.png)</a>
+<a href="https://github.com/ArenKae/ft_transcendence">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_transcendencee.png)</a>
+</div>
+
+## Advanced projects & Piscine
+
+<div align="center">
+  <a href="https://github.com/ArenKae/dr_quine">
+    <img src="https://github.com/ArenKae/ArenKae/blob/main/42%20badges/dr_quine.png"
+         alt="dr_quine badge"
+         width="49%" />
+  </a>
+  <a href="https://github.com/ArenKae/rush02">
+    <img src="https://github.com/ArenKae/ArenKae/blob/main/42%20badges/Rush02.png"
+         alt="Rush02 badge"
+         width="49%" />
+  </a>
+</div>
 
 ## Advanced projects
 <div align="center">
