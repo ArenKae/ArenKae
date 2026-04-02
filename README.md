@@ -60,6 +60,8 @@ https://raw.githubusercontent.com/ArenKae/github-stats/master/generated/overview
 ![](https://raw.githubusercontent.com/ArenKae/stats/master/generated/languages.svg#gh-dark-mode-only) 
 </div>
 
+![](https://raw.githubusercontent.com/ArenKae/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ArenKae/stats/master/generated/languages.svg#gh-dark-mode-only) 
 # Technical skills
 
 ### Known languages
