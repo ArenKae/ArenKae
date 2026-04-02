@@ -52,8 +52,10 @@ On this profile, you can check most of my 42 School projects. ⬇️
 </div>
 
 # GitHub Stats
-![](https://raw.githubusercontent.com/ArenKae/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ArenKae/github-stats/master/generated/languages.svg#gh-dark-mode-only) 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArenKae/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/ArenKae/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</p>
 
 # Technical skills
 
