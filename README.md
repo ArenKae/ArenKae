@@ -20,13 +20,13 @@
 On this profile, you can check most of my 42 School projects. ⬇️
 
 # 42 School Projects
-## Common core
 ## Piscine
 <div align="center">
 
 <a href="https://github.com/ArenKae/rush02">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/Rush02.png)</a>
 </div>
 
+## Common core
 <div align="center">
 
 <a href="https://github.com/ArenKae/libft">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/libfte.png)</a>
