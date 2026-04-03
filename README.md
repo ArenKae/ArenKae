@@ -23,10 +23,12 @@ On this profile, you can check most of my 42 School projects. ⬇️
 ## Common core
 ## Piscine
 <div align="center">
+
 <a href="https://github.com/ArenKae/rush02">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/Rush02.png)</a>
 </div>
 
 <div align="center">
+
 <a href="https://github.com/ArenKae/libft">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/libfte.png)</a>
 <a href="https://github.com/ArenKae/ft_printf">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_printfe.png)</a>
 <a href="https://github.com/ArenKae/get_next_line">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/get_next_linee.png)</a>
@@ -44,6 +46,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 ## Advanced projects
 <div align="center">
+
 <a href="https://github.com/ArenKae/dr_quine">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/dr_quine.png)</a>
 <a href="https://github.com/ArenKae/libasm">![42 Badge](https://github.com/ArenKae/ArenKae/blob/main/42%20badges/libasm.png)</a>
 </div>
