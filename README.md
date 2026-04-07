@@ -1,6 +1,6 @@
 # 🌌 Welcome, traveller.
 
-### Hi, my name is Anthony Cosi.
+### Hi, my name is Anthony.
 
 <table>
   <tr>
