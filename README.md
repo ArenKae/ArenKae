@@ -59,28 +59,64 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 # Technical skills
 
-### Known languages
+### Main programming languages
 
-<a href="https://en.cppreference.com/w/c" title="C"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40"/></a>
-<a href="https://en.cppreference.com/w/cpp" title="C++"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40"/></a>
-<a href="https://www.gnu.org/software/bash/manual/bash.html" title="Bash"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40"/></a>
-<a href="https://www.python.org" title="Python"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/></a>
-<a href="https://www.php.net" title="PHP"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="40"/></a>
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-### Other technologies I'm familair with
+### Secondary programming languages
 
-<a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="40"/></a>
-<a href="https://html.spec.whatwg.org/multipage/" title="HTML"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" title="CSS"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40"/></a>
-<a href="https://getbootstrap.com" title="Bootstrap"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40"/></a>
-<a href="https://www.mysql.com/" title="Mysql"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="40"/></a>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Assembly](https://img.shields.io/badge/x86_assembly-%23000000.svg?style=for-the-badge)
 
-### Known tools
 
-<a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="40"/></a>
-<a href="https://www.linux.org/" title="Linux"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="40"/></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40"/></a>
-<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40"/></a>
-<a href="https://www.vim.org/" title="Vim"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="40"/></a>
-<a href="https://www.photoshop.com/en" title="Photoshop"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="40"/></a>
+### Frameworks, Platforms and Libraries
+
+![React](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+### AI and scripting
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![MistralAI](https://img.shields.io/badge/mistral_ai-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Mobile
+
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![IOS](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### DevOps, Operating Systems and other tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![VSCode](https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
