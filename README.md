@@ -1,4 +1,4 @@
-# 🌌 Welcome, traveller.
+# Welcome, traveller.
 
 ### Hi, my name is Anthony.
 
