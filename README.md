@@ -87,7 +87,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-### AI scripting and automation
+### AI, scripting and automation
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![MistralAI](https://img.shields.io/badge/mistral_ai-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
