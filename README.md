@@ -73,7 +73,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86_assembly-%23000000.svg?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/x86_assembly-1C1E24.svg?style=for-the-badge&logo=AssemblyScript&logoColor=white)
 
 
 ### Frameworks, Platforms and Libraries
@@ -87,13 +87,15 @@ On this profile, you can check most of my 42 School projects. ⬇️
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-### AI and scripting
+### AI scripting and automation
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![MistralAI](https://img.shields.io/badge/mistral_ai-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-FEFEFE.svg?style=for-the-badge&logo=ollama&logoColor=black)
+![Makefile](https://img.shields.io/badge/Makefile-FC6D26.svg?style=for-the-badge&logo=packer&logoColor=white)
+![Justfile](https://img.shields.io/badge/Justfile-%23663399?style=for-the-badge&logo=Just&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=Buddy&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-202020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Databases
 
@@ -103,21 +105,21 @@ On this profile, you can check most of my 42 School projects. ⬇️
 ### Mobile
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-![IOS](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![IOS](https://img.shields.io/badge/IOS-FEFEFE?style=for-the-badge&logo=ios&logoColor=black)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-151515.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 ### DevOps, Operating Systems and other tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Gitlab](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![GitHub-Actions](https://img.shields.io/badge/GitHub_Actions-1C1E24?style=for-the-badge&logo=stremio&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![MacOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![MacOs](https://img.shields.io/badge/mac%20os-FEFEFE?style=for-the-badge&logo=apple&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
