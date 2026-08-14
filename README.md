@@ -106,8 +106,8 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![IOS](https://img.shields.io/badge/IOS-FEFEFE?style=for-the-badge&logo=ios&logoColor=black)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-151515.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![React Native](https://img.shields.io/badge/react_native-0088CC.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-%2320232a.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 ### DevOps, Operating Systems and other tools
 
