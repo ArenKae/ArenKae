@@ -78,7 +78,7 @@ On this profile, you can check most of my 42 School projects. ⬇️
 
 ### Frameworks, Platforms and Libraries
 
-![React](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react.js-0088CC?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white)
