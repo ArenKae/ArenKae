@@ -1,7 +1,5 @@
 # Welcome, traveller.
 
-### My name is Anthony.
-
 <table>
   <tr>
     <td style="width: 40px; text-align: center;">🇫🇷</td>
