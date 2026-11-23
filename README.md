@@ -50,30 +50,18 @@
 
 ## 📖 LexiCall
 
-**A personal vocabulary tracker** for the words and expressions collected while reading: a category hierarchy, instant search, and a sync layer that never costs offline access.
+**A personal vocabulary tracker** for the words collected while reading: a category tree, AI suggestions you review, and a sync layer that never costs offline access.
 
 [Source code](https://github.com/ArenKae/LexiCall)
 
-```mermaid
-flowchart LR
-    subgraph client["Windows client · WPF"]
-        direction TB
-        VM["MVVM"] --> JSON["vocabulary.json<br/>(source of truth)"]
-    end
+<p align="center">
+  <a href="https://github.com/ArenKae/LexiCall"><img src="screens/lexicall-logo.png" width="128" alt="LexiCall logo" title="LexiCall on GitHub"></a>
+</p>
 
-    subgraph server["API · FastAPI"]
-        direction TB
-        Routers["Routers"] --> Mongo["MongoDB"]
-    end
-
-    client -- "push (LWW)" --> server
-    server -- "delta pull" --> client
-```
-
-- **Local-first**: the desktop app reads and writes a single local JSON file, so it behaves the same with or without network.
-- **Bidirectional Last-Write-Wins sync**: compare-and-swap writes (`find_one_and_update` gated on `UpdatedAt`), soft-delete tombstones, delta pulls from a server-issued watermark and per-record dirty tracking.
-- **In production**: a FastAPI + MongoDB backend runs on a VPS behind a reverse proxy with automatic HTTPS, and the Windows client is used daily.
-- **In progress**: an Android client with React Native and Expo.
+- **Local-first**: both clients read and write a single local JSON file, so they behave the same with or without network.
+- **Bidirectional Last-Write-Wins sync**: compare-and-swap writes (`find_one_and_update` gated on `ClientLastWrite`), soft-delete tombstones, delta pulls from a server-issued watermark and per-record dirty tracking.
+- **AI you review**: drafts definitions, synonyms, examples and categories, accepted field by field. Categorization is embeddings first, LLM second, at about $0.0004 per word.
+- **In production**: FastAPI + MongoDB on a VPS behind a reverse proxy with HTTPS, a WPF desktop client used daily, and an Expo / React Native Android client.
 
 ![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -87,22 +75,23 @@ flowchart LR
 # 42 School projects
 
 <p align="center">
-  <a href="https://github.com/ArenKae/libft"><img src="42%20badges/libfte.png" width="80" alt="libft" title="libft"></a>
-  <a href="https://github.com/ArenKae/ft_printf"><img src="42%20badges/ft_printfe.png" width="80" alt="ft_printf" title="ft_printf"></a>
-  <a href="https://github.com/ArenKae/get_next_line"><img src="42%20badges/get_next_linee.png" width="80" alt="get_next_line" title="get_next_line"></a>
-  <a href="https://github.com/ArenKae/push_swap"><img src="42%20badges/push_swape.png" width="80" alt="push_swap" title="push_swap"></a>
-  <a href="https://github.com/ArenKae/pipex"><img src="42%20badges/pipexe.png" width="80" alt="pipex" title="pipex"></a>
-  <a href="https://github.com/ArenKae/so_long"><img src="42%20badges/so_longe.png" width="80" alt="so_long" title="so_long"></a>
-  <a href="https://github.com/ArenKae/minishell"><img src="42%20badges/minishelle.png" width="80" alt="minishell" title="minishell"></a>
-  <a href="https://github.com/ArenKae/Philosophers"><img src="42%20badges/philosopherse.png" width="80" alt="Philosophers" title="Philosophers"></a>
-  <a href="https://github.com/ArenKae/cub3D"><img src="42%20badges/cub3de.png" width="80" alt="cub3D" title="cub3D"></a>
-  <a href="https://github.com/ArenKae/cpp"><img src="42%20badges/cppe.png" width="80" alt="cpp" title="cpp"></a>
-  <a href="https://github.com/ArenKae/ft_irc"><img src="42%20badges/ft_irce.png" width="80" alt="ft_irc" title="ft_irc"></a>
-  <a href="https://github.com/ArenKae/Inception"><img src="42%20badges/inceptione.png" width="80" alt="Inception" title="Inception"></a>
-  <a href="https://github.com/ArenKae/ft_transcendence"><img src="42%20badges/ft_transcendencee.png" width="80" alt="ft_transcendence" title="ft_transcendence"></a>
-  <a href="https://github.com/ArenKae/dr_quine"><img src="42%20badges/dr_quine.png" width="80" alt="dr_quine" title="dr_quine"></a>
-  <a href="https://github.com/ArenKae/libasm"><img src="42%20badges/libasm.png" width="80" alt="libasm" title="libasm"></a>
-  <a href="https://github.com/ArenKae/rush02"><img src="42%20badges/Rush02.png" width="80" alt="rush02" title="rush02"></a>
+  <a href="https://github.com/ArenKae/libft"><img src="42%20badges/libfte.png" width="96" alt="libft" title="libft"></a>
+  <a href="https://github.com/ArenKae/ft_printf"><img src="42%20badges/ft_printfe.png" width="96" alt="ft_printf" title="ft_printf"></a>
+  <a href="https://github.com/ArenKae/get_next_line"><img src="42%20badges/get_next_linee.png" width="96" alt="get_next_line" title="get_next_line"></a>
+  <a href="https://github.com/ArenKae/push_swap"><img src="42%20badges/push_swape.png" width="96" alt="push_swap" title="push_swap"></a>
+  <a href="https://github.com/ArenKae/pipex"><img src="42%20badges/pipexe.png" width="96" alt="pipex" title="pipex"></a>
+  <a href="https://github.com/ArenKae/so_long"><img src="42%20badges/so_longe.png" width="96" alt="so_long" title="so_long"></a>
+  <a href="https://github.com/ArenKae/minishell"><img src="42%20badges/minishelle.png" width="96" alt="minishell" title="minishell"></a>
+  <a href="https://github.com/ArenKae/Philosophers"><img src="42%20badges/philosopherse.png" width="96" alt="Philosophers" title="Philosophers"></a>
+  <br>
+  <a href="https://github.com/ArenKae/cub3D"><img src="42%20badges/cub3de.png" width="96" alt="cub3D" title="cub3D"></a>
+  <a href="https://github.com/ArenKae/cpp"><img src="42%20badges/cppe.png" width="96" alt="cpp" title="cpp"></a>
+  <a href="https://github.com/ArenKae/ft_irc"><img src="42%20badges/ft_irce.png" width="96" alt="ft_irc" title="ft_irc"></a>
+  <a href="https://github.com/ArenKae/Inception"><img src="42%20badges/inceptione.png" width="96" alt="Inception" title="Inception"></a>
+  <a href="https://github.com/ArenKae/ft_transcendence"><img src="42%20badges/ft_transcendencee.png" width="96" alt="ft_transcendence" title="ft_transcendence"></a>
+  <a href="https://github.com/ArenKae/dr_quine"><img src="42%20badges/dr_quine.png" width="96" alt="dr_quine" title="dr_quine"></a>
+  <a href="https://github.com/ArenKae/libasm"><img src="42%20badges/libasm.png" width="96" alt="libasm" title="libasm"></a>
+  <a href="https://github.com/ArenKae/rush02"><img src="42%20badges/Rush02.png" width="96" alt="rush02" title="rush02"></a>
 </p>
 
 <p align="center"><sub>The Common Core, then the advanced projects (dr_quine, libasm) and the Piscine (rush02). Hover a badge for its name.</sub></p>
