@@ -17,7 +17,7 @@
 
 # Featured projects
 
-## 🔗 PassLink
+## 🔒 PassLink
 
 **Self-destructing, expiring secret links**: encrypted in the browser, encrypted again at rest, gone after one read.
 
