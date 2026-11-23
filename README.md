@@ -94,7 +94,7 @@
   <a href="https://github.com/ArenKae/rush02"><img src="42%20badges/Rush02.png" width="96" alt="rush02" title="rush02"></a>
 </p>
 
-<p align="center"><sub>The Common Core, then the advanced projects (dr_quine, libasm) and the Piscine (rush02). Hover a badge for its name.</sub></p>
+<p align="center"><sub>The Common Core, then the advanced projects (dr_quine, libasm) and the Piscine (rush02).</sub></p>
 
 # GitHub Stats
 <p align="center">
